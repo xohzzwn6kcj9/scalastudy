@@ -2,4 +2,4 @@
 scalastudy
 
 1주차 
- - https://github.com/xohzzwn6kcj9/scalastudy.git
+ - https://code.google.com/codejam/contest/351101/dashboard#s=p1
